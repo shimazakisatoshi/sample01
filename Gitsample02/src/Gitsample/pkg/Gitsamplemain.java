@@ -1,6 +1,6 @@
 package Gitsample.pkg;
 
-public class Gitsamplemain02 {
+public class Gitsamplemain {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
